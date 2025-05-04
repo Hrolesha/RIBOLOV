@@ -1,0 +1,23 @@
+html{
+    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+}
+
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+} 
+
+h1{
+    text-align: center;
+    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+}
+h2{
+   text-align: center;
+    background-image:linear-gradient(to right,#007143,#60D6A7,#007143); 
+}
+ul{
+    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+}
+footer{
+ background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+}
