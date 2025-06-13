@@ -1,23 +1,23 @@
 html{
-    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+    background-image:linear-gradient(to right,#38B2CE,#FF9F40,#38B2CE);
 }
 
 body {
     font-family: sans-serif;
-    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+    background-image:linear-gradient(to right,#38B2CE,#FF9F40,#38B2CE);
 } 
 
 h1{
     text-align: center;
-    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+    background-image:linear-gradient(to right,#38B2CE,#FF9F40,#38B2CE);
 }
 h2{
    text-align: center;
-    background-image:linear-gradient(to right,#007143,#60D6A7,#007143); 
+    background-image:linear-gradient(to right,#38B2CE,#FF9F40,#38B2CE); 
 }
 ul{
-    background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+    background-image:linear-gradient(to right,#38B2CE,#FF9F40,#38B2CE);
 }
 footer{
- background-image:linear-gradient(to right,#007143,#60D6A7,#007143);
+ background-image:linear-gradient(to right,#38B2CE,#FF9F40,#38B2CE);
 }
